@@ -3,8 +3,8 @@
 return [
     'RingCX' => [
         'AGENT_GROUP_ID' => '',
-        'AUTH_URL'       => 'https://platform.ringcentral.com',
-        'BASE_URL'       => 'https://ringcx.ringcentral.com/voice/api/v1',
+        'AUTH_URL'       => 'https://platform.ringcentral.com/restapi/oauth/token',
+        'BASE_URL'       => 'https://ringcx.ringcentral.com',
         'CLIENT_ID'      => '',
         'CLIENT_SECRET'  => '',
         'JWT_ASSERTION'  => '',
